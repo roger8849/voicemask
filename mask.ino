@@ -112,7 +112,6 @@ void setup() {
 }
 
 float vol = 0;
-
 const uint16_t samples = 128;
 
 void loop() {
